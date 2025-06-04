@@ -166,9 +166,4 @@ This project is currently not licensed.
 
 ---
 
-**Before committing this `README.md` file:**
-* Replace placeholder URLs (like `https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git`).
-* Consider adding an actual screenshot.
-* Choose and add a license if desired.
-
 This README should give a good overview and setup instructions for your project!
